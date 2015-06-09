@@ -1,8 +1,7 @@
   
 Iraqi Army MOD for ArmA2  
 ====
-##Description
----  
+###Description
 This MOD add Iraqi Army to ArmA2.  
 
 
@@ -26,7 +25,7 @@ This MOD add Iraqi Army to ArmA2.
 ----
 ###Changelog
 
-V0.3.2  
+V0.3.2 （予定）  
 added:M113 Medevac  
 changed:UH-1H new texture  
 changed:M1151 HMMWV (DshKM) TransportMagazines  
@@ -78,7 +77,7 @@ men
 Pilot(US style)		:{BK\_iraq\_US\_pilot}  
 Crew(US style)		:{BK\_iraq\_US\_crew}  
 Sniper(M24)		:{BK\_iraq\_sniper}  
-Spotter			;{BK\_iraq\_Spotter}  
+Spotter			:{BK\_iraq\_Spotter}  
 
 Rifleman(AKM)		:{BK\_iraq\_soldier\_1}  
 Rifleman(M16A2)		:{BK\_iraq\_soldier\_2}  
