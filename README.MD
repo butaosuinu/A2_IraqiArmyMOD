@@ -4,10 +4,10 @@ Iraqi Army MOD for ArmA2
 ###Description
 This MOD add Iraqi Army to ArmA2.  
 
+このMODはアルファ版ですので完成度の低い部分や、未完成な部分も多いですが悪しからず
 
 
-
-ゆにっとは現状全部BIS謹製ユニットのリスキンだよ  
+ユニットは現状全部BIS謹製ユニットのリスキンです  
 一部、コンフィグ弄ってるよ  
 デバックガバガバだから利用は自己責任で
 
@@ -19,8 +19,50 @@ This MOD add Iraqi Army to ArmA2.
 * Mi-35M：ACE FCS使用時、中心線から着弾がずれる  
 * 一般部隊、クルー、パイロットのテクスチャ  
 * ACE　MOD必須状態になってる  
+* Mi-35MのモデルがV型のまま  
 
 ユニットは、BLUEFOR＞new iraqi army にあるよ
+
+----
+###Features
+####Iraqi Army  
+Armored  
+M1A1  
+T72  
+T55  
+M113  
+BMP-1  
+　
+Car  
+HMMWV  
+ 
+ISOF units  
+other  
+
+####ISIS  
+Pickup  
+
+----
+###Future plans
+Navistar　7000MV  
+BTR-4  
+BM-21U  
+T-5000  
+56式小銃  
+M14EBR  
+K2C 韓国製K2カービンモデル  
+Kraz6322  
+L-159  
+Mi-35Mモデル制作  
+Mi-17V-5  
+ベル407  
+ベル412　SAR機  
+EC635　武装偵察型  
+Mi-28NE  
+MRAP　各型  
+M109SPG  
+Dzik 3  
+パーンツェリS1  
 
 ----
 ###Changelog
