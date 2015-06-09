@@ -5,7 +5,7 @@ Iraqi Army MOD for ArmA2
 This MOD add Iraqi Army to ArmA2.  
 
 <br>
-<br>
+最新版ZIPファイルダウンロード  
 V0.3.1 - [DOWNLOAD](https://github.com/butaosuinu/A2_IraqiArmyMOD/releases/download/0.3.1/BK_New_Iraqi_army_MOD_v0.3.1.zip)
 
 このMODはアルファ版ですので完成度の低い部分や、未完成な部分も多いですが悪しからず
